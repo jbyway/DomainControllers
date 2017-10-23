@@ -3,13 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": null
+      "value": "labadmin"
     },
     "domainName": {
-      "value": null
+      "value": "m365demo.com.au"
     },
     "dnsPrefix": {
-      "value": null
+      "value": "m365demoaus"
+    },
+    "adminPassword": {
+      "value": "$MDTSPSccm2017"
     }
   }
 }
