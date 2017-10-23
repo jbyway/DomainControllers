@@ -6,13 +6,13 @@
       "value": "labadmin"
     },
     "domainName": {
-      "value": "m365demo.com.au"
+      "value": "contoso.com"
     },
     "dnsPrefix": {
-      "value": "m365demoaus"
+      "value": "contosodemo"
     },
     "adminPassword": {
-      "value": "$MDTSPSccm2017"
+      "value": "Password"
     }
   }
 }
